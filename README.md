@@ -86,7 +86,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ## 📧 Contact
 For questions or support, contact:
 - **Email**: lianheliping@gmail.com
-- **GitHub Issues**: Open an issue in the [repository](https://github.com/Oakflat/OnlinePlayersPlugin).
+- **GitHub Issues**: Open an issue in the [repository](https://github.com/Oakflat/OnlinePlayersPlugin-oakflat).
 
 ---
 
