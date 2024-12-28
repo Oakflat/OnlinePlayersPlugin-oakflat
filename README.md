@@ -68,7 +68,7 @@
 ### Building from Source
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Oakflat/OnlinePlayersPlugin.git
+   git clone https://github.com/Oakflat/OnlinePlayersPlugin-oakflat.git
    ```
 2. Open the project in your IDE.
 3. Build the project using your preferred build tool (e.g., Maven or Gradle).
