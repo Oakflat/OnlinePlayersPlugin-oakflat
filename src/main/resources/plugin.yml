@@ -1,0 +1,4 @@
+name: OnlinePlayersPlugin
+version: 1.0
+main: org.example.Online.OnlinePlayersPlugin
+api-version: 1.18
